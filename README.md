@@ -1,4 +1,4 @@
-## Hi there 👋
+## Something nice 👋
 
 <!--
 **Gavin145684/Gavin145684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
